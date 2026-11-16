@@ -1,0 +1,16 @@
+{
+  "name": "ovos-westbahn",
+  "owner": {
+    "name": "ovos"
+  },
+  "metadata": {
+    "description": "WESTbahn plugins by ovos"
+  },
+  "plugins": [
+    {
+      "name": "westbahn",
+      "source": "./",
+      "description": "Live WESTbahn timetables and cheapest fares, shown as interactive connection and price cards."
+    }
+  ]
+}

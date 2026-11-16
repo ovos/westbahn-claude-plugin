@@ -1,0 +1,18 @@
+{
+  "name": "westbahn",
+  "displayName": "WESTbahn",
+  "version": "1.0.0",
+  "description": "Live WESTbahn timetables and cheapest fares, shown as interactive connection and price cards.",
+  "author": {
+    "name": "WESTbahn",
+    "url": "https://www.westbahn.at"
+  },
+  "homepage": "https://github.com/ovos/westbahn-claude-plugin",
+  "repository": "https://github.com/ovos/westbahn-claude-plugin",
+  "license": "MIT",
+  "keywords": ["westbahn", "train", "timetable", "austria", "travel", "tickets"],
+  "icon": "./logo.png",
+  "documentationUrl": "https://github.com/ovos/westbahn-claude-plugin#readme",
+  "supportUrl": "https://westbahn.at/kontakt/",
+  "privacyPolicyUrl": "https://westbahn.at/datenschutzerklaerung/"
+}

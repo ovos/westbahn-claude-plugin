@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "westbahn": {
+      "type": "http",
+      "url": "https://mcp.westbahn.at/mcp/stateless"
+    }
+  }
+}
